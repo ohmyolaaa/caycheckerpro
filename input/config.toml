@@ -1,0 +1,5 @@
+[dev]
+Debug = false
+Proxyless = true
+Threads = 100
+MaxRetries = 3
